@@ -47,6 +47,8 @@ In this way, the client knows the fragmented data that has been uploaded, so tha
   2、when the file part count is completed、
   
   3、check the file content and md5
+  
+  4、store file metadata to EKV (push file to CDN in future)
 
   Example:
   
